@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![sel-hano's 42 stats](https://badge.mediaplus.ma/binary/sel-hano)](https://github.com/oakoudad/badge42)
 
 <!--
 **0x013FA11/0x013FA11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
