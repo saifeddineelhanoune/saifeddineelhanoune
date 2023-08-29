@@ -5,7 +5,7 @@
 ![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x013FA11&theme=blue-green)
 ![Contributors Badge](https://contrib.rocks/image?repo=0x013FA11/RANDOM)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![Summary Card Themes](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&show_icons=true)
+![Summary Card Themes](https://github-readme-stats.vercel.app/api?username=0x013FA11&theme=dark&show_icons=true)
 
 - 🌱 I’m currently learning memory management --all-versions
 - ⚡ Fun fact: you'll need more than bio to knows me
