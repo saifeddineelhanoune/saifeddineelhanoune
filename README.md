@@ -1,5 +1,6 @@
 # Hello, I'm SAIFEDDINE 👋
 I'm a Software developer with experience in developing high-quality software solutions. I have a strong background in monitoring, coding, full-stack web/mobile/extensions, scraping/automation, reactional-programming, imperative-programming and also computer science
+
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 ## 📈 GitHub Statistics
 
