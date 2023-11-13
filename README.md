@@ -13,8 +13,8 @@ I'm a Software developer with experience in developing high-quality software sol
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x013FA11&repo=repo1&theme=tokyonight)](https://github.com/0x013FA11/HandlingBarCode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x013FA11&repo=repo2&theme=tokyonight)](https://github.com/0x013FA11/RANDOM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x013FA11&repo=HandlingBarCode&theme=tokyonight)](https://github.com/0x013FA11/HandlingBarCode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x013FA11&repo=RANDOM&theme=tokyonight)](https://github.com/0x013FA11/RANDOM)
 
 ## 🛠️ Technologies & Tools
 
@@ -43,7 +43,7 @@ I'm a Software developer with experience in developing high-quality software sol
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
 
 ## 📫 How to reach me:
-You can reach me at [Your Email](mailto:saifeddine13elhanoune.com)
+You can reach me at [saifeddine13elhanoune@gmail.com](mailto:saifeddine13elhanoune.com)
 
 
 
