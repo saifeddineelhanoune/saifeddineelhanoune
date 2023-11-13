@@ -1,6 +1,21 @@
 # Hello, I'm SAIFEDDINE 👋
 I'm a Software developer with experience in developing high-quality software solutions. I have a strong background in monitoring, coding, full-stack web/mobile/extensions, scraping/automation, reactional-programming, imperative-programming and also computer science
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+## 📈 GitHub Statistics
+
+![Total Stars](https://img.shields.io/github/stars/0x013FA11?affiliations=OWNER&style=social)
+
+![Followers](https://img.shields.io/github/followers/0x013FA11?style=social)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x013FA11&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x013FA11&layout=compact&theme=tokyonight)
+
+## 📌 Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x013FA11&repo=repo1&theme=tokyonight)](https://github.com/0x013FA11/HandlingBarCode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x013FA11&repo=repo2&theme=tokyonight)](https://github.com/0x013FA11/RANDOM)
+
 ## 🛠️ Technologies & Tools
 
 ### Frontend Development
@@ -21,22 +36,11 @@ I'm a Software developer with experience in developing high-quality software sol
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599c)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776ab)
 
-
 ### Currently Learning
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=cc342d)
 ![](https://img.shields.io/badge/Ruby%20on%20Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00add8)
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
-
-## 📈 GitHub Statistics
-
-![Total Stars](https://img.shields.io/github/stars/0x013FA11?affiliations=OWNER&style=social)
-
-![Total Forks](https://img.shields.io/github/forks/0x013FA11?affiliations=OWNER&style=social)
-
-![Total Repos](https://img.shields.io/github/repo-size/0x013FA11/yourrepo)
-
-![Followers](https://img.shields.io/github/followers/0x013FA11?style=social)
 
 ## 📫 How to reach me:
 You can reach me at [Your Email](mailto:saifeddine13elhanoune.com)
