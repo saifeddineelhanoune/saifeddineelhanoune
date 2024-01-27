@@ -13,6 +13,7 @@ I'm a Software developer with experience in developing high-quality software sol
 
 ## 📌 Pinned Repositories
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x013FA11&repo=HandlingBarCode&theme=tokyonight)](https://github.com/0x013FA11/HandlingBarCode)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x013FA11&repo=RANDOM&theme=tokyonight)](https://github.com/0x013FA11/RANDOM)
 
