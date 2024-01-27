@@ -9,8 +9,6 @@ I'm a Software developer with experience in developing high-quality software sol
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x013FA11&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x013FA11&layout=compact&theme=tokyonight)
-
 ## 📌 Pinned Repositories
 
 
