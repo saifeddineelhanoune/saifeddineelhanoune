@@ -11,8 +11,6 @@ I'm a Software developer with experience in developing high-quality software sol
   </p>
   
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x013FA11&layout=compact&theme=radical" alt="0x013FA11" /> </p><br/>
-## 📫 How to reach me:
-You can reach me at [saifeddine13elhanoune@gmail.com](mailto:saifeddine13elhanoune.com)
 
 
 
