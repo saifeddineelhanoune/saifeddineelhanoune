@@ -10,7 +10,7 @@ I'm a Software developer with experience in developing high-quality software sol
     <a href="https://twitter.com/saifeddine003"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
   </p>
   
-   <p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2&hide=language1,language2)](https://github.com/anuraghazra/github-readme-stats)
+   <p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x013FA11&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2&hide=language1,language2)](https://github.com/anuraghazra/github-readme-stats)
 </p><br/>
 
 
