@@ -8,10 +8,6 @@ I'm a Software developer with experience in developing high-quality software sol
     <a href="https://www.linkedin.com/in/saifeddine-elhanoune/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/whereisme003/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <a href="https://twitter.com/saifeddine003"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-  </p>
-  
-   <p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x013FA11&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2&hide=language1,language2)](https://github.com/anuraghazra/github-readme-stats)
-</p><br/>
 
 
 
