@@ -1,11 +1,7 @@
 I'm a Software developer with experience in developing high-quality software solutions. I have a strong background in monitoring, coding, full-stack web/mobile/extensions, scraping/automation, reactional-programming, imperative-programming and also computer science
 
 ## 📌 Pinned Repository
-<div aligne="center> 
-  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saifeddineelhanoune&repo=HandlingBarCode&theme=tokyonight)]  
-  
-</div>
 <div align="center">
   <img  src="./github-header-image.png"/>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifeddineelhanoune&theme=onedark" alt="davevad93" /></a></p>
