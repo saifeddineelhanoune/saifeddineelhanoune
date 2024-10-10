@@ -26,35 +26,6 @@ I'm a Software developer with experience in developing high-quality software sol
 
 <hr>
 
-<h2 align="center">Languages and Tools:</h2>
-<a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50/><a/>
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=50/><a/>
-<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50/><a/>
-<a href="https://www.unix.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width=50/><a/>
-<a href="https://nginx.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width=50/><a/>
-<a href="https://mariadb.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=50/><a/> <!-- Note: There isn't a direct icon for MariaDB, so MongoDB is used as a substitute -->
-<a href="https://tools.kali.org/gobuster/gobuster"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tools/tools-original.svg" width=50/><a/> <!-- Gobuster doesn't have a specific icon, so a generic tools icon is used -->
-<a href="https://wifiphisher.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tools/tools-original.svg" width=50/><a/> <!-- WiFite doesn't have a specific icon, so a generic tools icon is used -->
-<a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" width=50/><a/>
-<a href="https://dotnet.microsoft.com/apps/xamarin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" width=50/><a/>
-<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50/><a/>
-<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=50/><a/>
-
-<div align="center" style="display:flex;flex-direction:row;">
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50/><a/>
-    <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width=50/><a/>
-    <a href="https://dotnet.microsoft.com/en-us/download"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width=50/><a/>
-    <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50/><a/>
-    <a href="https://html.com/html5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width=50/><a/>
-    <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width=50/><a/>
-    <a href="https://www.xml.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-plain.svg" width=50/><a/>
-    <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=50/><a/>
-    <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width=50/><a/>
-    <a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=50/><a/>
-    <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50/><a/>
-    <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50/><a/>
-</div>
-
 <hr>
 
 <div align="center">
